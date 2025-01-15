@@ -17,6 +17,7 @@ before you run any lua scripts, make sure the source is trustworthy and that the
 this one's normal, in case you were wondering!
 ## how to use it ?
 - first, you'll need some version of the Bizhawk emulator. (i have only tested it with 2.10 but maybe it works with others)
+- you'll also need a mario 64 rom, obviously. it only works with the US release. (it might also work with romhacks based on that release but i haven't tested.)
 - click the little green "<> Code" button at the top of this github page and select Download ZIP.
 - drag the "videochess" folder out of the zip and into your Bizhawk/Lua/ directory.
 - in Bizhawk, select Tools -> Lua Console from the top menu.
