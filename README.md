@@ -8,7 +8,7 @@ really, angles 0 and 32,767 just mean that mario is perfectly aligned with the z
 so, just think of it as a bit of fun.\
 it behaves strangely depending on mario's state (i.e. when he is opening doors) but *generally* seems to work as expected whenever you have direct control of mario.\
 since it's an overlay, not something hacked into the game itself, it will continue displaying at "inappropriate" times, i.e. load screens, file select, etc as long as the script is loaded.\
-don't worry about it!
+don't worry about it!\
 ![alt text](https://github.com/videochess/SM64-Compass-Overlay/blob/main/sm64_compass_example.gif?raw=true)
 ## before you use it...
 **if you've never used a lua script before, general word of caution: *be careful!!!***\
