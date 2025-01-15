@@ -16,11 +16,11 @@ the functionality of lua isn't limited to things within your emulator.\
 before you run any lua scripts, make sure the source is trustworthy and that the script isn't doing anything weird.\
 this one's normal, in case you were wondering!\
 ## how to use it ?
-- first, you'll need some version of the Bizhawk emulator. (i have only tested it with 2.10 but maybe it works with others)\
-- click the little green "<> Code" button at the top of this github page and select Download ZIP.\
-- drag the "videochess" folder out of the zip and into your Bizhawk/Lua/ directory.\
-- in Bizhawk, select Tools -> Lua Console from the top menu.\
-- in the Lua Console, hit the Open button and navigate to the "videochess" folder you extracted earlier. select sm64_compass.lua.\
+- first, you'll need some version of the Bizhawk emulator. (i have only tested it with 2.10 but maybe it works with others)
+- click the little green "<> Code" button at the top of this github page and select Download ZIP.
+- drag the "videochess" folder out of the zip and into your Bizhawk/Lua/ directory.
+- in Bizhawk, select Tools -> Lua Console from the top menu.
+- in the Lua Console, hit the Open button and navigate to the "videochess" folder you extracted earlier. select sm64_compass.lua.
 - there you go! should be working!
 ## i think thats all
 i didn't test this extensively. i basically just ran around the castle and bob-omb battlefield a bit. sorry if it breaks.\
