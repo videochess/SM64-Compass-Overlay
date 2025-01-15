@@ -6,7 +6,7 @@ it's important to remember that these cardinal direction assignments are *arbitr
 32,767 as north just "feels" right. it's the angle that points toward the castle from spawn, and toward the second floor when you enter the castle.\
 really, angles 0 and 32,767 just mean that mario is perfectly aligned with the z axis in game space, facing either positive or negative.\
 so, just think of it as a bit of fun.\
-it behaves strangely depending on mario's state (i.e. when he is opening doors) but *generally* seems to work as expected when you have direct control of mario.\
+it behaves strangely depending on mario's state (i.e. when he is opening doors) but *generally* seems to work as expected whenever you have direct control of mario.\
 since it's an overlay, not something hacked into the game itself, it will continue displaying at "inappropriate" times, i.e. load screens, file select, etc as long as the script is loaded.\
 don't worry about it!\
 ![alt text](https://github.com/videochess/SM64-Compass-Overlay/blob/main/sm64_compass_example.gif?raw=true)
