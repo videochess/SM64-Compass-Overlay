@@ -1,3 +1,3 @@
 # Super Mario 64 Compass Overlay
 
-Welcome too my webpage.
+![alt text](https://github.com/videochess/SM64-Compass-Overlay/blob/main/sm64_compass_example.gif?raw=true)
